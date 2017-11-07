@@ -58,6 +58,7 @@ div.jumbotron{
   line-height: 40px;
 }
 div.questions{
+  margin-top: 30px;
   padding: 0 20px 0 20px;
 }
 div.questions h4{

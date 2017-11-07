@@ -68,7 +68,7 @@ div.questions h4{
 }
 div.questions a.btn{
     border-radius: 5px;
-    color: #fff;
+    color: #FFF;
     background-color: : #007bff;
     border-color: #007bff;
     text-decoration: none;
@@ -80,7 +80,7 @@ div.questions a.btn:hover{
   border-color: #0069d9;
 }
 footer{
-  border-top: 1px solid #CCC;
+  border-top: 1px solid #ccc;
   margin-top: 80px;
   padding-top: 20px;
   color: #CCC;

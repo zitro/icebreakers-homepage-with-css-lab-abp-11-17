@@ -43,8 +43,7 @@ main{
   margin-top: 20px;
 }
 div.jumbotron{
-  border: 5px solid;
-    border-radius: 25px;
+    border-radius: 5px;
   background-color: #e9ecef;
   padding: 10px;
   text-align: center;
@@ -68,8 +67,7 @@ div.questions h4{
   margin-bottom: 10px;
 }
 div.questions a.btn{
-  border: 5px solid;
-    border-radius: 25px;
+    border-radius: 5px;
     color: #fff;
     background-color: : #007bff;
     border-color: #007bff;
